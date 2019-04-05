@@ -1,2 +1,2 @@
 # HeartDiseaseLogisticRegression
-Building and fitting a logistic regression model to predict heart disease.
+Building a logistic regression algorithm and using it to predict heart disease (includes EDA).
